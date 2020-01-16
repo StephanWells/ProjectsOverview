@@ -1,0 +1,7 @@
+This was a short film done in a team of five people where the goal was to make a short CGI animated film using motion capture. It is very different from other projects I have worked on and certainly an ambitious project given the short timeframe of 2-3 months during which it had to be worked on part-time.
+
+While no programming was involved, this was my first foray into 3D modelling and animation. It was done in Maya and I played a crucial role in the group. I was the one who thought of the concept and helped in the storyboarding for the animation. I also composed the original music which ended up dictating the precise timings of all of the motion capture and animating. This naturally gave me a lot of responsibility with the motion capture direction and making sure the actor's actions are synced up well with the music. With all the motion capture data acted out, the actual animating in Maya ended up being the bulk of our work. I was responsible for animating many of the scenes of the film, which required me to learn Maya from the ground up in a very short timeframe, and I performed edits and quality assurance on all of the scenes before they were deemed ready to render.
+
+This folder contains the MP4 video of the final result after editing and post-processing. You can also see the video online, posted by the course coordinator, where it shows that the video was a 2nd runner up from all the animations produced during the course, meaning it was the third highest graded in the class.
+
+Online video: https://www.youtube.com/watch?v=OlSgPXWe6iM
