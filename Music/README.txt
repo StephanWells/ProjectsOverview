@@ -5,6 +5,7 @@ I have organised the music into three folders. "Arrangements" are songs that are
 Here is a short description of each MP3 file:
 
 ARRANGEMENTS
+* Arrangement - Celestial: This is an arrangement of the Ed Sheeran Pokémon song, Celestial, made in a chiptune style, with singing by Darren Kerwin. I also edited a music video for it: https://youtu.be/6DDCsHrN884
 * Arrangement - City of Gold: This is an arrangement of Tarir music composed by Lena Chappelle for the game Guild Wars 2. It gained the attention of Lena herself who gave it a lot of praise.
 * Arrangement - Fear Not This Night: This is an arrangement of the Guild Wars 2 song Fear Not This Night, composed by Jeremy Soule. It was praised as the best arrangement of the song by one of the game's creators.
 * Arrangement - In a Dream: This is an arrangement of the song Snake Eater, composed by Norihiko Hibino for the game Metal Gear Solid 3. It was part of a large video game arrangement album involving many musicians and songs called Harmony of Heroes: Final Smash. http://www.harmonyofheroes.com/
