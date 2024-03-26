@@ -4,4 +4,4 @@ This was done by separating the foreground (the people) from the background (the
 
 The Video folder has two videos showing the work done, with the INFOMCV_P2 video showing the foreground/background separation and the INFOMCV_P3 video showing the voxel-based tracking.
 
-Repo: https://github.com/StephanWells/INFOMCV_P4
+For access to the repo, please contact me privately.
